@@ -19,6 +19,6 @@ public class Localizacao extends PanacheEntityBase {
 
     public Double latitude;
 
-    public Double longityde;
+    public Double longitude;
 
 }

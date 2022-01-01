@@ -10,7 +10,7 @@ import java.math.BigDecimal;
  * @Created 24/11/2021 - 17:54
  */
 @Entity
-@Table(name = "localizacao")
+@Table(name = "prato")
 public class Prato extends PanacheEntityBase {
 
     @Id
